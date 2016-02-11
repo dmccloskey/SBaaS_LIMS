@@ -1,0 +1,217 @@
+"met_id","met_name","provider","provider_reference","powderdate","stockdate","concentration","concentration_units","aliquots","solvent","ph","box","posstart","posend"
+"2392410","4-hydroxyphenyllactic","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"2h3mb","2-Hydroxy-3-methylbutyric acid","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"2h3mv","2-Hydroxy-3-methylpentanoic acid","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"2hic","Hydroxyisocaproic acid","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"2obut","2-Oxobutanoate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"34hpp","3-(4-Hydroxyphenyl)pyruvate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"3mob","3-Methyl-2-oxobutanoate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",2,"mM",,"",,,,
+"4mop","4-Methyl-2-oxopentanoate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",2,"mM",,"",,,,
+"5oxpro","5-Oxoproline","Hill Crest","Hill Crest","1901-01-01","1901-01-01",20,"mM",,"",,,,
+"acac","acetoacetate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"acon-C","cis-Aconitate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"ala-L","L-Alanine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",500,"mM",,"",,,,
+"anserine","beta-Alanyl-N(pai)-methyl-L-histidine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",2.5,"mM",,"",,,,
+"arg-L","L-Arginine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"argsuc","N(omega)-(L-Arginino)succinate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",2.5,"mM",,"",,,,
+"asn-L","L-Asparagine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"asp-L","L-Aspartate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",2.5,"mM",,"",,,,
+"citr-L","L-Citrulline","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"cys-L","L-Cysteine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"cyst-L","L-Cystathionine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",1.25,"mM",,"",,,,
+"G_2mcit","2-Hydroxybutane-1,2,3-tricarboxylate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"G_phlac","Phenyllactate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"gln-L","L-Glutamine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"glu-L","L-Glutamate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"glx","Glyoxylate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"hcys-L","L-Homocysteine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"his-L","L-Histidine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"ile-L","L-Isoleucine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"inost","myo-Inositol","Hill Crest","Hill Crest","1901-01-01","1901-01-01",20,"mM",,"",,,,
+"L2aadp","L-2-Aminoadipate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",1.25,"mM",,"",,,,
+"Lcystin","L-Cystine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",50,"mM",,"",,,,
+"Lhcystin","L-Homocystine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"lys-L","L-Lysine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",,"mM",,"",,,,
+"met-L","L-Methionine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"mev-R","(R)-Mevalonate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",8.781048,"mM",,"",,,,
+"Nacasp","N-Acetyl-L-aspartate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"Nacser","N-Acetyl-L-Serine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"Ntigly","N-Tiglylglycine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"orn","L-Ornithine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",300,"mM",,"",,,,
+"orot","Orotate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"oxa","Oxalate","Hill Crest","Hill Crest","1901-01-01","1901-01-01",10,"mM",,"",,,,
+"phe-L","L-Phenylalanine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",100,"mM",,"",,,,
+"pro-L","L-Proline","Hill Crest","Hill Crest","1901-01-01","1901-01-01",500,"mM",,"",,,,
+"pser-L","O-Phospho-L-serine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",1.25,"mM",,"",,,,
+"ser-L","L-Serine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"taur","Taurine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",1.25,"mM",,"",,,,
+"thr-L","L-Threonine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",200,"mM",,"",,,,
+"trp-L","L-Tryptophan","Hill Crest","Hill Crest","1901-01-01","1901-01-01",2.5,"mM",,"",,,,
+"tyr-L","L-Tyrosine","Hill Crest","Hill Crest","1901-01-01","1901-01-01",66.7,"mM",,"",,,,
+"ade","Adenine","Sigma-Aldrich","A-9126","1901-01-01","2013-04-18",25,"mM",2,"1 M NH4OH",,8,51,52
+"adn","Adenosine","Hill Crest","Calbiochem-1160","1901-01-01","2013-04-18",5,"mM",4,"1 M NH4OH",,8,53,57
+"AICAr","5-Aminoimidazole-4-carboxamide riboside","Hill Crest","164968","1901-01-01","2013-04-18",25,"mM",2,"1 M NH4OH",,8,49,50
+"cytd","Cytidine","Sigma-Aldrich","C4654","2013-04-18","2013-04-18",25,"mM",1,"1 M NH4OH",,8,58,58
+"glc-D","D-Glucose","Sigma-Aldrich","G8270","1901-01-01","2013-04-18",25,"mM",1,"5% MeOH in Water",,8,59,59
+"gsn","Guanosine","Sigma-Aldrich","G-6752","2013-04-18","2013-04-18",25,"mM",1,"1 M NH4OH",,8,60,60
+"gua","Guanine","Hill Crest","Hill Crest","1901-01-01","2013-04-18",1,"mM",10,"1 M NH4OH",,9,1,10
+"hxan","Hypoxanthine","Sigma-Aldrich","H-9377","1901-01-01","2013-04-18",25,"mM",2,"1 M NH4OH",,8,61,62
+"ins","Inosine","Sigma-Aldrich","I4125","2013-04-18","2013-04-18",25,"mM",2,"1 M NH4OH",,8,63,64
+"thym","Thymine","Hill Crest","T0376","1901-01-01","2013-04-18",25,"mM",2,"1 M NH4OH",,9,11,12
+"ura","Uracil","Hill Crest","Calbiochem-663","1901-01-01","2013-04-18",25,"mM",2,"1 M NH4OH",,9,18,19
+"urate","Urate","Sigma-Aldrich","U-2750","1901-01-01","2013-04-18",5,"mM",3,"1 M NH4OH",,9,14,17
+"uri","Uridine","Sigma-Aldrich","U-6381","1901-01-01","2013-04-18",25,"mM",1,"1 M NH4OH",,9,13,13
+"xan","Xanthine","Hill Crest","P-L Biochemicals 4300","1901-01-01","2013-04-18",25,"mM",2,"1 M NH4OH",,9,20,21
+"r5p","alpha-D-Ribose 5-phosphate","Sigma-Aldrich","R7750","2013-02-19","2013-02-19",25,"mM",1,"5% MeOH in Water",,7,58,58
+"akg","2-Oxoglutarate","Sigma-Aldrich","75892","2012-04-27","2013-02-18",50,"mM",1,"5% MeOH in Water",,8,48,48
+"cit","Citrate","Hill Crest","Hill Crest","1901-01-01","2013-02-18",50,"mM",1,"5% MeOH in Water",,8,30,30
+"fum","Fumarate","Sigma-Aldrich","F1506","2013-02-15","2013-02-18",50,"mM",1,"5% MeOH in Water",,8,31,31
+"glutacon","Glutaconate","Sigma-Aldrich","G260-5","1901-01-01","2013-02-18",50,"mM",1,"5% MeOH in Water",,8,32,33
+"glyclt","Glycolate","Sigma-Aldrich","G8284","2013-02-18","2013-02-18",50,"mM",3,"5% MeOH in Water",,8,34,37
+"icit","Isocitrate","Sigma-Aldrich","I-1252","1901-01-01","2013-02-18",25,"mM",1,"5% MeOH in Water",,8,22,22
+"mal-L","L-Malate","Sigma-Aldrich","M673","1901-01-01","2013-02-18",50,"mM",1,"5% MeOH in Water",,8,42,42
+"mmal","Methylmalonate","Sigma-Aldrich","M54058","1901-01-01","2013-02-18",25,"mM",3,"5% MeOH in Water",,8,23,26
+"oaa","Oxaloacetate","Sigma-Aldrich","O7753","2012-04-27","2013-02-18",25,"mM",1,"5% MeOH in Water",,8,27,27
+"phpyr","Phenylpyruvate","Sigma-Aldrich","P8001","2012-04-27","2013-02-18",25,"mM",2,"5% MeOH in Water",,8,28,29
+"pyr","Pyruvate","Sigma-Aldrich","P2256","1901-01-01","2013-02-18",50,"mM",2,"5% MeOH in Water",,8,43,45
+"succ","Succinate","Sigma-Aldrich","10827JU","1901-01-01","2013-02-18",50,"mM",2,"5% MeOH in Water",,8,46,47
+"35cgmp","cGMP","Sigma-Aldrich","G6129","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,46,46
+"adp","ADP","Sigma-Aldrich","A5285","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,5,5
+"amp","AMP","Sigma-Aldrich","1930","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,45,45
+"btn","Biotin","Sigma-Aldrich","B4639","2012-04-27","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,1,1
+"camp","cAMP","Sigma-Aldrich","A6885","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,47,47
+"cmp","CMP","Sigma-Aldrich","C1006","2012-05-31","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,48,48
+"coa","Coenzyme A","Sigma-Aldrich","C4780","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,2,2
+"dadp","dADP","Sigma-Aldrich","D6000","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,6,6
+"damp","dAMP","Sigma-Aldrich","D6375","2012-04-26","2013-02-14",12.5,"mM",1,"5% MeOH in Water",,7,49,49
+"dcdp","dCDP","Sigma-Aldrich","D7250","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,7,7
+"dcmp","dCMP","Sigma-Aldrich","D7625","2012-04-26","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,50,50
+"dgdp","dGDP","Sigma-Aldrich","D9250","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,8,8
+"dgmp","dGMP","Sigma-Aldrich","D9500","2012-04-26","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,51,51
+"dimp","dIMP","Sigma-Aldrich","D0126","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,52,52
+"dtdpglu","dTDPglucose","Sigma-Aldrich","T9500","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,9,9
+"dtmp","TMP","Sigma-Aldrich","T7004","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,56,56
+"dump","dUMP","Sigma-Aldrich","D3876","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,53,53
+"fad","Flavin adenine dinucleotide oxidized","Santa Cruz Biochemicals","sc-294595","2013-02-14","2013-02-14",25,"mM",0,"5% MeOH in Water",,,,
+"fol","Folate","Sigma-Aldrich","F7876","2012-07-19","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,3,3
+"gdp","GDP","Sigma-Aldrich","G7127","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,10,10
+"gmp","GMP","Sigma-Aldrich","G8377","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,54,54
+"imp","IMP","Sigma-Aldrich","I4625","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,55,55
+"ribflv","Riboflavin","Sigma-Aldrich","R4500","2012-04-27","2013-02-14",25,"mM",1,"5% MeOH in Water",,8,4,4
+"udp","UDP","Sigma-Aldrich","94330","2013-02-14","2013-02-14",25,"mM",1,"5% MeOH in Water",,9,11,11
+"ump","UMP","Sigma-Aldrich","U6375","2012-05-31","2013-02-14",25,"mM",1,"5% MeOH in Water",,7,57,57
+"atp","ATP","Sigma-Aldrich","A2383","1901-01-01","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,35,35
+"ctp","CTP","Sigma-Aldrich","C1506","1901-01-01","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,36,36
+"datp","dATP","Sigma-Aldrich","D6500","2013-02-13","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,37,37
+"dctp","dCTP","Sigma-Aldrich","D4635","2013-02-13","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,38,38
+"ditp","dITP","Sigma-Aldrich","D0758","2013-02-13","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,39,39
+"dttp","TTP","Sigma-Aldrich","T0251","2013-02-13","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,43,43
+"dutp","dUTP","Sigma-Aldrich","D4001","2013-02-13","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,40,40
+"gtp","GTP","Sigma-Aldrich","G8877","1901-01-01","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,41,41
+"itp","ITP","Sigma-Aldrich","I0879","2013-02-13","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,42,42
+"utp","UTP","Sigma-Aldrich","U6625","1901-01-01","2013-02-13",25,"mM",1,"5% MeOH in Water",,7,44,44
+"actp","Acetyl phosphate","Sigma-Aldrich","A0262","2012-04-27","2013-02-12",25,"mM",2,"5% MeOH in Water",,7,28,29
+"dhap","Dihydroxyacetone phosphate","Sigma-Aldrich","D7137","2013-02-12","2013-02-12",25,"mM",2,"5% MeOH in Water",,7,32,33
+"f1p","D-Fructose 1-phosphate","Santa Cruz Biochemicals","sc-214803","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,8,15,16
+"f6p","D-Fructose 6-phosphate","Sigma-Aldrich","F1502","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,30,30
+"g1p","D-Glucose 1-phosphate","Sigma-Aldrich","G9380","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,31,31
+"gthox","Oxidized glutathione","Sigma-Aldrich","G4376","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,25,25
+"gthrd","Reduced glutathione","Sigma-Aldrich","G4251","2013-02-12","2013-02-12",25,"mM",2,"5% MeOH in Water",,7,26,27
+"nad","Nicotinamide adenine dinucleotide","Sigma-Aldrich","N1636","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,21,21
+"nadh","Nicotinamide adenine dinucleotide - reduced","Sigma-Aldrich","N8129","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,22,22
+"nadp","Nicotinamide adenine dinucleotide phosphate","Sigma-Aldrich","N5755","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,23,23
+"nadph","Nicotinamide adenine dinucleotide phosphate - reduced","Sigma-Aldrich","N7505","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,24,24
+"ru5p-D","D-Ribulose 5-phosphate","Sigma-Aldrich","83899","2013-02-12","2013-02-12",25,"mM",1,"5% MeOH in Water",,7,34,34
+"3pg","3-Phospho-D-glycerate","Sigma-Aldrich","P8877","2013-02-11","2013-02-11",25,"mM",2,"5% MeOH in Water",,8,13,13
+"6pgc","6-Phospho-D-gluconate","Sigma-Aldrich","P7877","2012-04-26","2013-02-11",25,"mM",10,"5% MeOH in Water",,8,14,14
+"g6p","D-Glucose 6-phosphate","Sigma-Aldrich","G7879","2013-02-11","2013-02-11",25,"mM",10,"5% MeOH in Water",,8,18,18
+"gam6p","D-Glucosamine 6-phosphate","Sigma-Aldrich","G5509","2013-02-11","2013-02-11",25,"mM",1,"5% MeOH in Water",,8,17,17
+"glyc3p","Glycerol 3-phosphate","Sigma-Aldrich","G7886","2013-02-11","2013-02-11",25,"mM",10,"5% MeOH in Water",,8,19,19
+"pep","Phosphoenolpyruvate","Santa Cruz Biochemicals","sc-208168","2012-04-24","2013-02-11",25,"mM",1,"5% MeOH in Water",,8,20,20
+"s7p","Sedoheptulose 7-phosphate","Santa Cruz Biochemicals","sc-285389","2013-02-11","2013-02-11",25,"mM",0,"5% MeOH in Water",,8,21,21
+"23dpg","3-Phospho-D-glyceroyl phosphate","Sigma-Aldrich","d5764","2013-01-15","2013-01-15",25,"mM",2,"H2O",7,6,75,76
+"adpglc","ADPglucose","Sigma-Aldrich","A0627","2013-01-15","2013-01-15",25,"mM",1,"H2O",7,6,73,73
+"dhap","Dihydroxyacetone phosphate","Sigma-Aldrich","D7137","2013-01-15","2013-01-15",25,"mM",1,"H2O",7,6,72,72
+"e4p","D-Erythrose 4-phosphate","Santa Cruz Biochemicals","sc-214801","2013-01-15","2013-01-15",25,"mM",1,"H2O",7,6,74,74
+"35cgmp","cGMP","Sigma-Aldrich","G6129","1901-01-01","2012-12-10",25,"mM",4,"H2O",7.8,7,11,14
+"atp","ATP","Sigma-Aldrich","A2383","1901-01-01","2012-12-10",25,"mM",3,"H2O",7,7,5,7
+"camp","cAMP","Sigma-Aldrich","A9501","1901-01-01","2012-12-10",25,"mM",4,"H2O",7.8,7,1,4
+"ctp","CTP","Sigma-Aldrich","C1506","1901-01-01","2012-12-10",25,"mM",3,"H2O",7,7,8,10
+"gtp","GTP","Sigma-Aldrich","G8877","1901-01-01","2012-12-10",25,"mM",3,"H2O",7.6,7,15,17
+"utp","UTP","Sigma-Aldrich","U6625","1901-01-01","2012-12-10",25,"mM",3,"H2O",7.6,7,18,20
+"nadp","Nicotinamide adenine dinucleotide phosphate","Sigma-Aldrich","N5755","2012-12-06","2012-12-06",25,"mM",2,"H2O",7,6,70,71
+"accoa","Acetyl-CoA","Sigma-Aldrich","A2181","2012-05-01","2012-11-12",25,"mM",9,"H2O",7,6,61,69
+"prpp","5-Phospho-alpha-D-ribose 1-diphosphate","Sigma-Aldrich","p8296","2012-11-12","2012-11-12",25,"mM",3,"H2O",7,6,58,60
+"gal1p","alpha-D-Galactose 1-phosphate","Sigma-Aldrich","G0380","2012-10-12","2012-10-12",20,"mM",11,"H2O",,6,47,57
+"man6p","D-Mannose 6-phosphate","Sigma-Aldrich","M6876","2012-10-12","2012-10-12",50,"mM",6,"H2O",,6,41,46
+"fol","Folate","Sigma-Aldrich","F7876","2012-09-25","2012-09-25",100,"mM",10,"H2O",,6,31,40
+"ptrc","Putrescine","Sigma-Aldrich","P7505-25G","2012-08-09","2012-08-09",20,"mM",10,"H2O",,6,11,20
+"spmd","Spermidine","Sigma-Aldrich","85578-1G","2012-08-09","2012-08-09",20,"mM",10,"H2O",,6,1,10
+"sprm","Spermine","Sigma-Aldrich","S3256-1G","2012-08-09","2012-08-09",20,"mM",10,"H2O",,6,21,30
+"gdp","GDP","Sigma-Aldrich","G7127","2012-06-06","2012-06-06",20,"mM",2,"H2O",7,4,51,53
+"adp","ADP","Sigma-Aldrich","A5285","2012-05-31","2012-05-31",20,"mM",9,"H2O",,5,11,20
+"amp","AMP","Sigma-Aldrich","1930","2012-05-31","2012-05-31",20,"mM",10,"H2O",,5,1,10
+"cdp","CDP","Sigma-Aldrich","30290","2012-05-31","2012-05-31",20,"mM",9,"H2O",,5,31,40
+"cmp","CMP","Sigma-Aldrich","C1006","2012-05-31","2012-05-31",20,"mM",9,"H2O",,5,21,30
+"gmp","GMP","Sigma-Aldrich","G8377","2012-05-31","2012-05-31",20,"mM",,"H2O",,5,41,50
+"udp","UDP","Sigma-Aldrich","94330","2012-05-31","2012-05-31",20,"mM",9,"H2O",,5,61,70
+"ump","UMP","Sigma-Aldrich","U6375","2012-05-31","2012-05-31",20,"mM",9,"H2O",,5,51,60
+"nad","Nicotinamide adenine dinucleotide","Sigma-Aldrich","N1636","2012-05-25","2012-05-25",25,"mM",1,"H2O",7,4,45,46
+"nadh","Nicotinamide adenine dinucleotide - reduced","Sigma-Aldrich","N8129","2012-05-25","2012-05-25",25,"mM",3,"H2O",7,4,47,50
+"nadph","Nicotinamide adenine dinucleotide phosphate - reduced","Sigma-Aldrich","N7505","2012-05-25","2012-05-25",25,"mM",1,"H2O",7,4,43,44
+"2pg","D-Glycerate 2-phosphate","Sigma-Aldrich","19710","2012-05-01","2012-05-01",25,"mM",8,"H2O",7,4,28,36
+"3pg","3-Phospho-D-glycerate","Sigma-Aldrich","P8877","2012-05-01","2012-05-01",25,"mM",2,"H2O",7,4,37,38
+"accoa","Acetyl-CoA","Sigma-Aldrich","A2181","2012-05-01","2012-05-01",25,"mM",1,"H2O",7,4,23,24
+"coa","Coenzyme A","Sigma-Aldrich","C4780","2012-05-01","2012-05-01",10,"mM",1,"H2O",7,4,25,26
+"gam6p","D-Glucosamine 6-phosphate","Sigma-Aldrich","G5509","2012-05-01","2012-05-01",20,"mM",1,"H2O",7,4,21,22
+"r5p","alpha-D-Ribose 5-phosphate","Sigma-Aldrich","R7750","2012-05-01","2012-05-01",25,"mM",1,"H2O",7,4,41,42
+"ru5p-D","D-Ribulose 5-phosphate","Sigma-Aldrich","83899","2012-05-01","2012-05-01",25,"mM",1,"H2O",7,4,39,40
+"succoa","Succinyl-CoA","Sigma-Aldrich","S1129","2012-05-01","2012-05-01",5,"mM",0,"H2O",7,4,27,27
+"6pgc","6-Phospho-D-gluconate","Sigma-Aldrich","P7877","2012-04-26","2012-04-27",25,"mM",10,"H2O",7,2,61,70
+"actp","Acetyl phosphate","Sigma-Aldrich","A0262","2012-04-27","2012-04-27",25,"mM",10,"H2O",,2,11,20
+"akg","alpha-ketoglutaric acid","Sigma-Aldrich","75892","2012-04-27","2012-04-27",20,"mM",10,"H2O",,4,11,20
+"btn","Biotin","Sigma-Aldrich","B4639","2012-04-27","2012-04-27",20,"mM",10,"H2O",9,2,51,60
+"dtmp","TMP","Sigma-Aldrich","T7004","2012-04-27","2012-04-27",20,"mM",10,"H2O",7,2,1,10
+"g6p","D-Glucose 6-phosphate","Sigma-Aldrich","G7879","2012-04-27","2012-04-27",25,"mM",10,"H2O",7,2,71,80
+"glyc3p","Glycerol 3-phosphate","Sigma-Aldrich","G6501","2012-04-27","2012-04-27",25,"mM",10,"H2O",7,4,1,10
+"oaa","Oxaloacetate","Sigma-Aldrich","O7753","2012-04-27","2012-04-27",20,"mM",10,"H2O",,2,21,30
+"phpyr","Phenylpyruvate","Sigma-Aldrich","P8001","2012-04-27","2012-04-27",25,"mM",10,"H2O",,2,31,40
+"ribflv","Riboflavin","Sigma-Aldrich","R4500","2012-04-27","2012-04-27",20,"mM",10,"H2O",,2,41,50
+"dadp","dADP","Sigma-Aldrich","D6000","2012-04-26","2012-04-26",20,"mM",2,"H2O",7,1,59,61
+"damp","dAMP","Sigma-Aldrich","D6375","2012-04-26","2012-04-26",20,"mM",10,"H2O",7,3,11,20
+"datp","dATP","Sigma-Aldrich","D6500","2012-04-26","2012-04-26",10,"mM",1,"H2O",7,1,57,58
+"dcdp","dCDP","Sigma-Aldrich","D7250","2012-04-26","2012-04-26",10,"mM",1,"H2O",7,1,65,66
+"dcmp","dCMP","Sigma-Aldrich","D7625","2012-04-26","2012-04-26",20,"mM",10,"H2O",7,3,1,10
+"dgdp","dGDP","Sigma-Aldrich","D9250","2012-04-26","2012-04-26",20,"mM",1,"H2O",7,1,62,64
+"dgmp","dGMP","Sigma-Aldrich","D9500","2012-04-26","2012-04-26",20,"mM",10,"H2O",7,3,21,30
+"dimp","dIMP","Sigma-Aldrich","D0126","2012-04-26","2012-04-26",10,"mM",1,"H2O",7,1,67,68
+"dtdpglu","dTDPglucose","Sigma-Aldrich","T9500","2012-04-26","2012-04-26",20,"mM",1,"H2O",7,1,69,70
+"dump","dUMP","Sigma-Aldrich","D3876","2012-04-26","2012-04-26",20,"mM",10,"H2O",7,3,31,40
+"dutp","dUTP","Sigma-Aldrich","D4001","2012-04-26","2012-04-26",20,"mM",2,"H2O",7,1,54,56
+"f6p","D-Fructose 6-phosphate","Sigma-Aldrich","F1502","2012-04-26","2012-04-26",25,"mM",10,"H2O",7,3,41,50
+"fdp","D-Fructose 1,6-bisphosphate","Sigma-Aldrich","47810","2012-04-26","2012-04-26",25,"mM",10,"H2O",7,3,61,70
+"g1p","D-Glucose 1-phosphate","Sigma-Aldrich","G9380","2012-04-26","2012-04-26",25,"mM",10,"H2O",7,3,51,60
+"imp","IMP","Sigma-Aldrich","I4625","2012-04-26","2012-04-26",20,"mM",10,"H2O",7,3,71,80
+"dctp","dCTP","Sigma-Aldrich","D4635","1901-01-01","2012-04-24",10,"mM",1,"H2O",7,1,53,53
+"dgtp","dGTP","Sigma-Aldrich","D4010","1901-01-01","2012-04-24",10,"mM",1,"H2O",7,1,46,47
+"ditp","dITP","Sigma-Aldrich","D0758","1901-01-01","2012-04-24",10,"mM",4,"H2O",7,1,48,52
+"dttp","TTP","Sigma-Aldrich","T0251","2012-04-24","2012-04-24",20,"mM",1,"H2O",7,1,45,45
+"f1p","D-Fructose 1-phosphate","Santa Cruz Biochemicals","sc-214803","2012-04-24","2012-04-24",25,"mM",1,"H2O",,1,1,2
+"fad","Flavin adenine dinucleotide oxidized","Santa Cruz Biochemicals","sc-294595","2012-04-24","2012-04-24",10,"mM",10,"H2O",8,1,31,40
+"g3p","Glyceraldehyde 3-phosphate","Sigma-Aldrich","G5251","2012-04-24","2012-04-24",20,"mM",7,"H2O",,1,14,20
+"nadp","Nicotinamide adenine dinucleotide phosphate","Sigma-Aldrich","N5755","2012-04-24","2012-04-24",25,"mM",10,"H2O",8,1,21,30
+"pep","Phosphoenolpyruvate","Santa Cruz Biochemicals","sc-208168","2012-04-24","2012-04-24",25,"mM",10,"H2O",7,1,4,13
+"s7p","Sedoheptulose 7-phosphate","Santa Cruz Biochemicals","sc-285389","2012-04-24","2012-04-24",25,"mM",0,"H2O",,1,3,3
+"fdp","D-Fructose 1,6-bisphosphate","Sigma-Aldrich","47810","2012-04-26","2013-02-15",25,"mM",1,"5% MeOH in Water",,8,12,12
+"nadph","Nicotinamide adenine dinucleotide phosphate - reduced","Sigma-Aldrich","N7505","2013-02-12","2013-12-17",25,"mM",1,"H2O",,9,23,23
+"nadp","Nicotinamide adenine dinucleotide phosphate","Sigma-Aldrich","N5755","2013-02-12","2013-12-17",25,"mM",1,"H2O",,9,22,22
+"nadph","Nicotinamide adenine dinucleotide phosphate - reduced","Sigma-Aldrich","N7505","2013-02-12","2014-01-02",25,"mM",1,"5% MeOH in H20",,9,24,24
+"nadh","Nicotinamide adenine dinucleotide - reduced","Sigma-Aldrich","N8129","2013-02-12","2014-01-02",25,"mM",1,"5% MeOH in Water",,9,25,25
+"gthrd","Reduced glutathione","Sigma-Aldrich","G4251","2013-02-12","2014-01-02",25,"mM",2,"5% MeOH in Water",,9,26,26
+"chor","chorismate","Sigma-Aldrich","C1761","2014-01-27","2014-01-27",25,"mM",1,"5% MeOH in Water",,9,27,27
+"udpg","UDPglucose","Sigma-Aldrich","U4625","2014-01-27","2014-01-27",25,"mM",1,"5% MeOH in Water",,9,29,29
+"udpglcur","UDP-D-glucuronate","Sigma-Aldrich","U6751","2014-01-27","2014-01-27",25,"mM",1,"5% MeOH in Water",,9,30,30
+"udpg","UDPglucose","Sigma-Aldrich","U4625","2014-01-27","2014-05-01",25,"mM",1,"20% MeOH in Water",,9,31,31
+"udpglcur","UDP-D-glucuronate","Sigma-Aldrich","U6751","2014-01-27","2014-05-01",25,"mM",1,"20% MeOH in Water",,9,32,32
+"skm","Shikimate","Sigma-Aldrich","S5375","2014-01-27","2014-01-27",25,"mM",1,"5% MeOH in Water",,9,28,28
+"lac-D","D-Lactate","Hill Crest","Fluka-71720","1901-01-01","2013-02-18",50,"mM",2,"5% MeOH in Water",,8,38,41

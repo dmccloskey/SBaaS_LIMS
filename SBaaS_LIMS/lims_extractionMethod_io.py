@@ -1,0 +1,5 @@
+from .lims_extractionMethod_query import lims_extractionMethod_query
+from SBaaS_base.sbaas_template_io import sbaas_template_io
+
+class lims_extractionMethod_io(lims_extractionMethod_query,sbaas_template_io):
+    pass

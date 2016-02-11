@@ -1,0 +1,4 @@
+"id","ms_cur","ms_cad","ms_is","ms_tem","ms_gs1","ms_gs2"
+"200uLPerMin_Neg",30,"High",-4500,500,30,30
+"200uLPerMin_Pos",30,"High",5500,500,40,60
+"400uLPerMin_Neg",40,"High",-4500,500,50,50

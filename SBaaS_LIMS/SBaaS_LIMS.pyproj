@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>95e2a81f-b0ac-4bca-89cb-2eedddd948eb</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>SBaaS_LIMS</Name>
+    <RootNamespace>SBaaS_LIMS</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="lims_acquisitionMethod_execute.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_oligos_io.py" />
+    <Compile Include="lims_internalStandards_io.py" />
+    <Compile Include="lims_lcMethod_io.py" />
+    <Compile Include="lims_extractionMethod_io.py" />
+    <Compile Include="lims_experimentor_io.py" />
+    <Compile Include="lims_acquisitionMethod_io.py" />
+    <Compile Include="lims_autosamplerMethod_io.py" />
+    <Compile Include="lims_biologicalMaterial_io.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_biologicalMaterial_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_biologicalMaterial_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_calibratorsAndMixes_execute.py" />
+    <Compile Include="lims_calibratorsAndMixes_io.py" />
+    <Compile Include="lims_experiment_io.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_experiment_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_acquisitionMethod_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_acquisitionMethod_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_autosamplerMethod_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_autosamplerMethod_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_experiment_execute.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_experimentor_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_experimentor_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_experiment_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_extractionMethod_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_extractionMethod_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_full.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_internalStandards_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_internalStandards_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_lcMethod_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_lcMethod_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_calibratorsAndMixes_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_calibratorsAndMixes_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_minimum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_msMethod_io.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_msMethod_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_msMethod_execute.py" />
+    <Compile Include="lims_msMethod_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_oligos_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_oligos_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_quantitationMethod_execute.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_quantitationMethod_io.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_quantitationMethod_query.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_quantitationMethod_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_quantitationMethod_dependencies.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_sample_execute.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_sample_query.py" />
+    <Compile Include="lims_sample_io.py" />
+    <Compile Include="lims_sample_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lims_standards_io.py" />
+    <Compile Include="lims_standards_query.py" />
+    <Compile Include="lims_standards_postgresql_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="main.py" />
+    <Compile Include="__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
+  <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

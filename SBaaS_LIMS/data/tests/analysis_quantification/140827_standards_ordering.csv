@@ -1,0 +1,186 @@
+met_id,met_name,hillcrest,provider,provider_reference,price,amount,amount_units,purity,mw,notes,powderdate_received,powderdate_opened,order_standard,standards_storage,purchase
+12ppd-R,"(R)-Propane-1,2-diol",,Sigma-Aldrich,12279,17.8,1,mL,,,,,,,,FALSE
+2392410,4-hydroxyphenyllactic,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+23dpg,3-Phospho-D-glyceroyl phosphate,,Sigma-Aldrich,d5764,41.8,25,mg,1,375.95,20 mg left,1/15/2013,1/15/2013,,-20,TRUE
+2h3mb,2-Hydroxy-3-methylbutyric acid,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+2h3mv,2-Hydroxy-3-methylpentanoic acid,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+2hic,Hydroxyisocaproic acid,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+2mcit,2-Methylcitrate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+2obut,2-Oxobutanoate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+2pg,D-Glycerate 2-phosphate,,Sigma-Aldrich,19710,67.3,5,mg,0.8,230.02,,,,,4,TRUE
+34hpp,3-(4-Hydroxyphenyl)pyruvate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+35cgmp,cGMP,,Sigma-Aldrich,G6129,,2.5,mg,0.99,367.19,,2/10/2013,2/14/2013,,-20,TRUE
+3mob,3-Methyl-2-oxobutanoate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+3pg,3-Phospho-D-glycerate,,Sigma-Aldrich,P8877,13.3,5,mg,0.93,230.02,3.7 mg left,2/10/2013,2/11/2013,,-20,TRUE
+4hdxbutn,4-Hydroxybutanoate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+4mop,4-Methyl-2-oxopentanoate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+5oxpro,5-Oxoproline,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+6pgc,6-Phospho-D-gluconate,,Sigma-Aldrich,P7877,72.5,5,mg,0.97,342.08,5.9; and unopened,2/11/2013,4/26/2012,,-20,TRUE
+6pgl,6-Phosphonoglucono-D-lactone,,Sigma-Aldrich,G4750,35.1,5,mg,0.99,178.14,,,,,,TRUE
+ac,Acetate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+acac,acetoacetate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+accoa,Acetyl-CoA,,Sigma-Aldrich,A2181,35.6,100,mg,0.95,809.57,unopened,2/20/2013,,,-20,TRUE
+acon-C,cis-Aconitate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+actp,Acetyl phosphate,,Sigma-Aldrich,A0262,108.5,500,mg,0.85,184.06,,4/24/2013,4/27/2012,,-20,TRUE
+ade,Adenine,,Sigma-Aldrich,A-9126,,5.7,mg,0.99,184.2,,,,,,FALSE
+adn,Adenosine,TRUE,Hill Crest,Calbiochem-1160,,8.2,mg,0.982,267.2,,,,,,FALSE
+adp,ADP,,Sigma-Aldrich,A5285,66.9,1000,mg,0.95,501.32,3.6 mg left; bacterial,2/10/2013,2/14/2013,,-20,TRUE
+adpglc,ADPglucose,,Sigma-Aldrich,A0627,59.2,5,mg,0.93,633.31,2.9 mg left,1/15/2013,1/15/2013,,-20,TRUE
+AICAr,5-Aminoimidazole-4-carboxamide riboside,TRUE,Hill Crest,164968,,7.8,mg,0.98,162.58,,,,,,FALSE
+akg,alpha-ketoglutaric acid,TRUE,Sigma-Aldrich,75892,125,100,mg,0.98,226.09,,4/24/2013,4/27/2012,,25,TRUE
+ala-D,D-Alanine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+ala-L,L-Alanine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+amp,AMP,,Sigma-Aldrich,1930,60.2,5000,mg,0.99,391.18,5 mg left,5/29/2013,5/31/2012,,4,FALSE
+anserine,beta-Alanyl-N(pai)-methyl-L-histidine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+arg-L,L-Arginine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+argsuc,N(omega)-(L-Arginino)succinate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+asn-L,L-Asparagine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+asp-L,L-Aspartate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+atp,ATP,TRUE,Sigma-Aldrich,A2383,,21.5,mg,0.99,551.14,,,,TRUE,,FALSE
+btn,Biotin,,Sigma-Aldrich,B4639,67.8,500,mg,0.99,244.31,7.2 mg left;,4/24/2013,4/27/2012,,4,TRUE
+camp,cAMP,,Sigma-Aldrich,A6885,,50,mg,0.98,369.2,8.4 mg left,2/10/2013,2/14/2013,,-20,TRUE
+camp,cAMP,,Sigma-Aldrich,A9501,185.5,1000,mg,0.985,369.2,,,,,,TRUE
+cdp,CDP,,Sigma-Aldrich,30290,135,250,mg,0.99,510.31,,5/23/2012,5/31/2012,,4,TRUE
+chor,chorismate,,Sigma-Aldrich,C1761,156.5,5,mg,0.8,226.18,,1/15/2014,1/27/2014,,-20,TRUE
+cit,Citrate,TRUE,Hill Crest,Hill Crest,,6.5,mg,0.99,294.1,,,,,,FALSE
+citr-L,L-Citrulline,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+cmp,CMP,,Sigma-Aldrich,C1006,28.6,500,mg,0.99,367.16,6.3 mg left; S. cerevisiae,5/23/2012,5/31/2012,,4,TRUE
+coa,Coenzyme A,,Sigma-Aldrich,C4780,51,10,mg,1,767.53,4.5 mg left,2/10/2013,2/14/2013,,-20,TRUE
+ctp,CTP,TRUE,Sigma-Aldrich,C1506,15.3,10,mg,0.95,527.12,,2/10/2013,2/13/2013,TRUE,-20,FALSE
+cys-L,L-Cysteine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+cyst-L,L-Cystathionine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+cytd,Cytidine,TRUE,Sigma-Aldrich,C4654,,4.1,mg,0.99,243.22,,,,,-20,FALSE
+dadp,dADP,,Sigma-Aldrich,D6000,163.5,4.4,mg,0.95,411.2,,2/10/2013,2/14/2013,,-20,TRUE
+damp,dAMP,,Sigma-Aldrich,D6375,32.9,100,mg,0.98,331.22,4.1 mg left,4/20/2013,4/26/2012,,-20,TRUE
+datp,dATP,,Sigma-Aldrich,D6500,63.2,10,mg,0.97,535.15,5.9 mg left,2/10/2013,2/13/2013,,-20,TRUE
+dcdp,dCDP,,Sigma-Aldrich,D7250,44.9,5,mg,0.96,387.18,reorder,2/10/2013,2/14/2013,TRUE,,TRUE
+dcmp,dCMP,,Sigma-Aldrich,D7625,39.8,100,mg,0.98,351.16,6.8 mg left,4/20/2013,4/26/2012,,-20,TRUE
+dctp,dCTP,,Sigma-Aldrich,D4635,53.1,10,mg,0.95,511.12,,2/10/2013,2/13/2013,,-20,TRUE
+dgdp,dGDP,,Sigma-Aldrich,D9250,123,25,mg,0.9,427.2,3.8 mg left,2/10/2013,2/14/2013,,-20,TRUE
+dgmp,dGMP,,Sigma-Aldrich,D9500,31.7,100,mg,0.99,347.22,6.2 mg left,4/20/2013,4/26/2012,,-20,TRUE
+dgtp,dGTP,,Sigma-Aldrich,D4010,62.2,10,mg,0.96,507.18,,,,,-20,TRUE
+dhap,Dihydroxyacetone phosphate,,Sigma-Aldrich,D7137,141.5,100,mg,0.93,181.92,4.6 mg left,2/10/2013,2/12/2013,,-20,TRUE
+dimp,dIMP,,Sigma-Aldrich,D0126,35.7,5,mg,1,332.21,reorder,2/10/2013,2/14/2013,TRUE,-20,TRUE
+ditp,dITP,,Sigma-Aldrich,D0758,103,25,mg,0.95,558.11,3.9 mg left,2/10/2013,2/13/2013,,-20,TRUE
+dtdpglu,dTDPglucose,,Sigma-Aldrich,T9500,467.5,25,mg,0.93,608.29,4.3 mg left,2/10/2013,2/14/2013,,-20,TRUE
+dtmp,TMP,,Sigma-Aldrich,T7004,30.5,100,mg,0.99,366.17,4.8 mg left,2/10/2013,2/14/2013,,-20,TRUE
+dttp,TTP,,Sigma-Aldrich,T0251,44.9,10,mg,0.96,504.15,4.5 mg left,2/10/2013,2/13/2013,,,TRUE
+dump,dUMP,,Sigma-Aldrich,D3876,141.5,100,mg,1,352.15,4.5 mg left,2/10/2013,2/14/2013,,-20,TRUE
+dutp,dUTP,,Sigma-Aldrich,D4001,114,25,mg,0.95,468.14,4.2 mg left,2/10/2013,2/13/2013,,-20,TRUE
+e4p,D-Erythrose 4-phosphate,,Santa Cruz Biochemicals,sc-214801,578,5,mg,0.6,222.07,1.5 mg left,1/15/2013,1/15/2013,,-20,TRUE
+e4p,D-Erythrose 4-phosphate,,Sigma-Aldrich,E0377,107,5,mg,1,222.07,backordered 6/22/12,,,,-20,FALSE
+f1p,D-Fructose 1-phosphate,,Santa Cruz Biochemicals,sc-214803,60,10,mg,0.98,304.1,reorder,2/10/2013,2/12/2013,TRUE,-20,TRUE
+f6p,D-Fructose 6-phosphate,,Sigma-Aldrich,F1502,55.1,5,mg,0.97,336.32,4.3 mg left,2/10/2013,2/12/2013,,-20,TRUE
+fad,Flavin adenine dinucleotide oxidized,,Santa Cruz Biochemicals,sc-294595,36,5,mg,1,829.51,,2/10/2013,2/14/2013,,-20,TRUE
+fdp,"D-Fructose 1,6-bisphosphate",,Sigma-Aldrich,47810,19.4,1000,mg,0.98,550.18,11.9 mg left,4/20/2013,4/26/2012,,4,TRUE
+fol,Folate,,Sigma-Aldrich,F7876,12.4,1000,mg,0.97,441.4,14.1 mg left,9/25/2012,9/25/2012,,25,FALSE
+for,Formate,,Sigma-Aldrich,71541,51.1,25000,mg,0.99,68.01,,,,,,TRUE
+fum,Fumarate,,Sigma-Aldrich,F1506,17.6,25000,mg,0.99,160.04,6.4 mg left,4/20/2013,2/15/2013,,-20,TRUE
+G_2mcit,"2-Hydroxybutane-1,2,3-tricarboxylate",TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+G_phlac,Phenyllactate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+g1p,D-Glucose 1-phosphate,,Sigma-Aldrich,G9380,196,100,mg,0.98,304.1,4.9 mg left,2/10/2013,2/12/2013,,-20,TRUE
+g3p,Glyceraldehyde 3-phosphate,,Santa Cruz Biochemicals,sc-214937,133,250,mg,0.98,379.49,,,,,,FALSE
+g3p,Glyceraldehyde 3-phosphate,,Sigma-Aldrich,G5251,128.5,25,mg,0.98,170.06,Bad,,,,,TRUE
+g6p,D-Glucose 6-phosphate,,Sigma-Aldrich,G7879,37.8,5,mg,1,282.12,4.4 mg left,2/10/2013,2/11/2013,,25,TRUE
+gal1p,alpha-D-Galactose 1-phosphate,,Sigma-Aldrich,G0380,106,100,mg,0.98,426.39,=0.5 mol % glucose 1-phosphate.,10/12/2012,10/12/2012,TRUE,-20,TRUE
+gam6p,D-Glucosamine 6-phosphate,,Sigma-Aldrich,G5509,71.1,5,mg,0.98,259.15,4.6 mg left,2/10/2013,2/11/2013,,-20,TRUE
+gdp,GDP,,Sigma-Aldrich,G7127,46.9,25,mg,0.96,443.2,5 mg left,2/10/2013,2/14/2013,,-20,TRUE
+glc-D,D-Glucose,TRUE,Sigma-Aldrich,G8270,,4.2,mg,0.995,180.16,,,,,,FALSE
+glcn,D-Gluconate,,Sigma-Aldrich,G9005,15.3,10,mg,0.99,,delta-lactone,,,,,FALSE
+gln-L,L-Glutamine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+glu-L,L-Glutamate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+glutacon,Glutaconate,TRUE,Sigma-Aldrich,G260-5,,6.6,mg,0.97,130.1,,,,,,FALSE
+glx,Glyoxylate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+gly,Glycine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+glyald,D-Glyceraldehyde,,Sigma-Aldrich,49800,129.5,1000,mg,0.98,,viscous,,,,,FALSE
+glyc3p,Glycerol 3-phosphate,,Sigma-Aldrich,G6501,,,,,,,4/20/2012,4/27/2012,,-20,TRUE
+glyc3p,Glycerol 3-phosphate,,Sigma-Aldrich,G7886,80.6,5.8,mg,0.93,370.42,,2/10/2013,2/11/2013,,-20,TRUE
+glyclt,Glycolate,,Sigma-Aldrich,G8284,,15.2,mg,0.98,76.05,,2/10/2013,2/18/2013,,-20,FALSE
+gmp,GMP,,Sigma-Aldrich,G8377,38.8,1000,mg,0.99,407.18,5.2 mg left; yeast,5/23/2012,5/31/2012,,4,TRUE
+gsn,Guanosine,TRUE,Sigma-Aldrich,G-6752,,2.9,mg,0.98,283.2,,,,,,FALSE
+gthox,Oxidized Glutathione,,Sigma-Aldrich,G4376,,7,mg,0.98,612.63,,2/10/2013,2/12/2013,,-20,FALSE
+gthrd,Reduced glutathione,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+gthrd,Reduced Glutathione,,Sigma-Aldrich,G4251,,8.5,mg,0.98,307.32,,2/10/2013,2/12/2013,,-20,FALSE
+gtp,GTP,TRUE,Sigma-Aldrich,G8877,108,21.8,mg,0.95,523.18,6.9 mg left,,,TRUE,-20,FALSE
+gua,Guanine,TRUE,Hill Crest,Hill Crest,,5.1,mg,0.99,151.2,,,,,,FALSE
+hcys-L,L-Homocysteine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+his-L,L-Histidine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+hxan,Hypoxanthine,TRUE,Sigma-Aldrich,H-9377,,6.6,mg,0.99,136.1,,,,,,FALSE
+icit,Isocitrate,TRUE,Sigma-Aldrich,I-1252,,1,mg,0.99,258.1,reorder,,,TRUE,,FALSE
+idp,IDP,,Santa Cruz Biochemicals,sc-211646,200,50,mg,,,,,,,,TRUE
+ile-L,L-Isoleucine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+imp,IMP,,Sigma-Aldrich,I4625,35.7,5000,mg,0.98,392.17,6.3 mg left; yeast,4/20/2012,4/26/2013,,4,TRUE
+inost,myo-Inositol,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+ins,Inosine,TRUE,Sigma-Aldrich,I4125,,8.4,mg,0.99,268.23,,,,,,FALSE
+itp,ITP,,Sigma-Aldrich,I0879,37.8,50,mg,0.95,574.11,4.6 mg left,2/10/2013,2/13/2013,,-20,TRUE
+L2aadp,L-2-Aminoadipate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+lac-D,D-Lactate,TRUE,Hill Crest,Fluka-71720,,18.8,mg,0.99,112.06,,,,,,FALSE
+lac-D,D-Lactate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+Lcystin,L-Cystine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+leu-L,L-Leucine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+Lhcystin,L-Homocystine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+lys-L,L-Lysine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+mal-L,L-Malate,TRUE,Sigma-Aldrich,M673,,5.2,mg,0.95,178.05,,,,,,FALSE
+malcoa,Malonyl-CoA,,Sigma-Aldrich,685518,,,,0.97,853.58,packaged on demand,,,,,TRUE
+man,D-Mannose,,Sigma-Aldrich,63579,125.9,10000,mg,0.995,,,,,,,FALSE
+man1p,D-Mannose 1-phosphate,,Sigma-Aldrich,M1755,504,100,mg,0.98,260.14,Backordered,,,,,FALSE
+man6p,D-Mannose 6-phosphate,,Sigma-Aldrich,M6876,,100,mg,0.97,304.1,,10/12/2012,10/12/2012,TRUE,-20,TRUE
+met-L,L-Methionine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+mev-R,(R)-Mevalonate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+mmal,Methylmalonate,TRUE,Sigma-Aldrich,M54058,,6.4,mg,0.99,118.09,,,,,,FALSE
+Nacasp,N-Acetyl-L-aspartate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+Nacser,N-Acetyl-L-Serine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+nad,Nicotinamide adenine dinucleotide,,Sigma-Aldrich,N1636,32.4,4.8,mg,0.99,663.43,larger quantities available,2/10/2013,2/12/2013,,-20,TRUE
+nadh,Nicotinamide adenine dinucleotide - reduced,,Sigma-Aldrich,N8129,22.4,6.4,mg,0.97,709.4,larger quantities available,2/10/2013,2/12/2013,,-20,TRUE
+nadp,Nicotinamide adenine dinucleotide phosphate,,Santa Cruz Biochemicals,sc-291983,65,5,mg,1,766.39,,2/10/2013,2/12/2013,,-20,FALSE
+nadp,Nicotinamide adenine dinucleotide phosphate,,Sigma-Aldrich,N5755,94.6,6.3,mg,0.95,743.41,,2/10/2013,2/12/2013,,-20,TRUE
+nadph,Nicotinamide adenine dinucleotide phosphate - reduced,,Sigma-Aldrich,N7505,86.7,25,mg,0.97,833.35,larger quantities available,1/15/2014,,,-20,TRUE
+Ntigly,N-Tiglylglycine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+oaa,Oxaloacetate,,Sigma-Aldrich,O7753,64.3,5000,mg,0.97,132.07,3.3 mg left,4/20/2013,4/27/2012,,-20,TRUE
+orn,L-Ornithine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+orot,Orotate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+oxa,Oxalate,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+pep,Phosphoenolpyruvate,,Santa Cruz Biochemicals,sc-208168,65,100,mg,1,206.13,3.8 mg left,4/20/2013,4/24/2012,,-20,TRUE
+pep,Phosphoenolpyruvate,,Sigma-Aldrich,860077,164,250,mg,0.99,206.13,3.8 mg left,,,,-20,FALSE
+phe-L,L-Phenylalanine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+phpyr,Phenylpyruvate,,Sigma-Aldrich,P8001,45.4,5.7,mg,0.99,186.14,,4/20/2013,4/27/2012,,4,TRUE
+ppal,Propanal,,Sigma-Aldrich,538124,57.8,,mg,0.97,,,,,,,FALSE
+pro-L,L-Proline,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+prpp,5-Phospho-alpha-D-ribose 1-diphosphate,,Sigma-Aldrich,p8296,81.6,25,mg,0.75,499.98,,,,,,TRUE
+pser-L,O-Phospho-L-serine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+ptrc,Putrescine,,Sigma-Aldrich,P7505-25G,55.9,25000,mg,0.98,161.07,,,,,25,FALSE
+pyr,Pyruvate,,Sigma-Aldrich,P2256,19,10,mg,0.99,110.04,,,,,,TRUE
+r5p,alpha-D-Ribose 5-phosphate,,Sigma-Aldrich,R7750,19.4,5,mg,0.98,274.07,2.8 mg left,2/10/2013,2/19/2013,,-20,TRUE
+rbl-L,L-Ribulose,,Sigma-Aldrich,63418,43.9,25000,mg,0.99,,,,,,,FALSE
+rib-D,D-Ribose,,Sigma-Aldrich,R7500,14.3,500,mg,0.99,,,,,,,FALSE
+ribflv,Riboflavin,,Sigma-Aldrich,R4500,21.4,5000,mg,0.98,376.36,11.9 mg left,4/20/2013,4/27/2012,,25,TRUE
+ru5p-D,D-Ribulose 5-phosphate,,Sigma-Aldrich,83899,293,5,mg,0.96,274.07,,,,,-20,TRUE
+s7p,Sedoheptulose 7-phosphate,,Santa Cruz Biochemicals,sc-285389,510,5,mg,0.98,562.8,reorder,2/10/2013,2/11/2013,TRUE,-20,TRUE
+s7p,Sedoheptulose 7-phosphate,,Sigma-Aldrich,78832,445,5,mg,0.98,,backordered 5/2/12,,,,,FALSE
+ser-L,L-Serine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+skm,Shikimate,,Sigma-Aldrich,S5375,18.7,10,mg,0.99,174.15,,1/15/2014,1/27/2014,,-20,TRUE
+spmd,Spermidine,,Sigma-Aldrich,85578-1G,33.7,1000,mg,0.995,254.63,,8/9/2012,8/9/2012,,25,FALSE
+sprm,Spermine,,Sigma-Aldrich,S3256-1G,55.9,1000,mg,0.97,202.34,,8/9/2012,8/9/2012,,25,FALSE
+succ,Succinate,TRUE,Sigma-Aldrich,10827JU,,9.5,mg,0.99,118.09,,,,,,FALSE
+succoa,Succinyl-CoA,,Sigma-Aldrich,S1129,139.5,5,mg,0.85,867.61,Bad,5/23/2012,5/31/2012,,-20,TRUE
+taur,Taurine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+thf,Tetrahydrofolate,,Sigma-Aldrich,T3125,37.8,25,mg,0.65,445.43,,,,,,FALSE
+THF-2-ol,2-hydroxytetrahydrofuran,,Sigma-Aldrich,CDS007077,50.4,10,mg,0.98,88.11,,1/15/2014,,,-20,TRUE
+thr-L,L-Threonine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+thym,Thymine,TRUE,Hill Crest,T0376,,4.8,mg,0.99,126.11,,,,,,FALSE
+trp-L,L-Tryptophan,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+tyr-L,L-Tyrosine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+udp,UDP,,Sigma-Aldrich,94330,69.3,100,mg,0.96,448.12,6 mg left,2/10/2013,2/14/2013,,-20,TRUE
+udpg,UDPglucose,,Sigma-Aldrich,U4625,21.2,10,mg,0.98,610.27,,1/15/2014,1/27/2014,,-20,TRUE
+udpgal,UDPgalactose,,Sigma-Aldrich,U4500,610.27,10,mg,0.97,98.1,Backordered,,,,,FALSE
+udpglcur,UDP-D-glucuronate,,Sigma-Aldrich,U6751,64.8,25,mg,0.98,646.23,,1/15/2014,1/27/2014,,,TRUE
+ump,UMP,,Sigma-Aldrich,U6375,27.5,1000,mg,0.99,368.15,8.3 mg left; yeast,5/23/2012,5/31/2012,,-20,TRUE
+ura,Uracil,TRUE,Hill Crest,Calbiochem-663,,4.5,mg,0.99,112.1,,,,,,FALSE
+urate,Urate,TRUE,Sigma-Aldrich,U-2750,,4.2,mg,0.99,206.1,,,,,,FALSE
+uri,Uridine,TRUE,Sigma-Aldrich,U-6381,,5.3,mg,0.99,244.2,,,,,,FALSE
+utp,UTP,,Sigma-Aldrich,U6625,111,20.7,mg,0.96,550.09,,,,TRUE,,FALSE
+val-L,L-Valine,TRUE,Hill Crest,Hill Crest,,,,,,,,,,,FALSE
+xan,Xanthine,TRUE,Hill Crest,P-L Biochemicals 4300,,4.4,mg,0.99,152.11,,,,,,FALSE
+xu5p-D,D-Xylulose 5-phosphate,,Sigma-Aldrich,X0754,150,5,mg,0.9,230.11,backordered,,,,,TRUE
+xyl-D,D-Xylose,,Sigma-Aldrich,X3877,47.6,25000,mg,0.99,,,,,,,FALSE
+xylu-D,D-Xylulose,,Sigma-Aldrich,X4625,153,25,mg,0.98,,syrup,,,,,FALSE

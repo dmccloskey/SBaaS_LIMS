@@ -1,0 +1,5 @@
+from .lims_internalStandards_query import lims_internalStandards_query
+from SBaaS_base.sbaas_template_io import sbaas_template_io
+
+class lims_internalStandards_io(lims_internalStandards_query,sbaas_template_io):
+    pass;
