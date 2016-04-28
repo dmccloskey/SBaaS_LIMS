@@ -66,7 +66,7 @@ class lims_biologicalMaterial_query(sbaas_template_query):
             data_O = [];
             for d in data: 
                 data_dict = {};
-                data_dict['ordered_locus_name'] = d.ordered_locus_name;
+                data_dict['gene_name'] = d.gene_name;
                 data_O.append(data_dict);
             return data_O;
         except SQLAlchemyError as e:
