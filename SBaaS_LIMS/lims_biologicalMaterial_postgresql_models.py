@@ -57,6 +57,7 @@ class biologicalMaterial_geneReferences(Base):
     ac = Column(String(20))
     ecogene_accession_number = Column(String(20))
     gene_name = Column(String(20))
+    #genebank_gi_id = Column(String(100))
 
     def __init__(self,data_dict_I):
         self.gene_name=data_dict_I['gene_name'];
@@ -66,6 +67,7 @@ class biologicalMaterial_geneReferences(Base):
         self.swissprot_entry_name=data_dict_I['swissprot_entry_name'];
         self.ac=data_dict_I['ac'];
         self.ecogene_accession_number=data_dict_I['ecogene_accession_number'];
+        #self.genebank_gi_id=data_dict_I['genebank_gi_id'];
 
     def __set__row__(self,biologicalmaterial_id_I,
                 ordered_locus_name_I,
@@ -73,7 +75,9 @@ class biologicalMaterial_geneReferences(Base):
                 swissprot_entry_name_I,
                 ac_I,
                 ecogene_accession_number_I,
-                gene_name_I):
+                gene_name_I,
+                #genebank_gi_id_I
+                ):
         self.biologicalmaterial_id=biologicalmaterial_id_I
         self.ordered_locus_name=ordered_locus_name_I
         self.ordered_locus_name2=ordered_locus_name2_I
@@ -81,6 +85,7 @@ class biologicalMaterial_geneReferences(Base):
         self.ac=ac_I
         self.ecogene_accession_number=ecogene_accession_number_I
         self.gene_name=gene_name_I
+        #self.genebank_gi_id=genebank_gi_id_I
 
     #TODO:
     #define relations
@@ -92,7 +97,9 @@ class biologicalMaterial_geneReferences(Base):
                 'swissprot_entry_name':self.swissprot_entry_name,
                 'ac':self.ac,
                 'ecogene_accession_number':self.ecogene_accession_number,
-                'gene_name':self.gene_name}
+                'gene_name':self.gene_name,
+                #'genebank_gi_id':self.genebank_gi_id
+                }
     
     def __repr__json__(self):
         return json.dumps(self.__repr__dict__())

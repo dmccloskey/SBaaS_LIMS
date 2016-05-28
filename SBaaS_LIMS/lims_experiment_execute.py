@@ -48,13 +48,13 @@ class lims_experiment_execute(lims_experiment_io):
             self.add_sample(sample_data);
             self.add_experiment(experiment_data);
     def execute_makeBatchFile(self, experiment_id_I, DateAcquisition_I, batch_fileName_I, experiment_type_I=4):
-        '''generate the acqusition batch file for the experiment'''
+        '''generate the acqusition batch file for the experiment
 
-        # Input:
-        #   batch_fileName_I = name of the .txt batch file that will be created
-        # Output:
-        #   batch_fileName_I.txt
-
+        Input:
+        batch_fileName_I = name of the .txt batch file that will be created
+        Output:
+        batch_fileName_I.txt
+        '''
         #query sample and experiment data
         #ordered dilutions.asc(), sample_replicate.asc();
         data_unknown = self.get_batchFileInfo_experimentIDAndExpType(experiment_id_I,'Unknown',exp_type_I=experiment_type_I);
@@ -65,14 +65,15 @@ class lims_experiment_execute(lims_experiment_io):
         batchFile_data,batchFile_header = self.make_batchFile(DateAcquisition_I,data_unknown,data_qc);
         self.export_batchFile(batchFile_data, batchFile_header, batch_fileName_I); #analyst cannot read in csv files for some reason, only txt files
     def execute_deleteSamplesFromExperiment(self,experiment_id_I, sample_ids_I):
-        '''remove specific samples from an experiment by their sample ID'''
+        '''remove specific samples from an experiment by their sample ID
 
-        # NOTES: DELETE statement appears to be broken
+        NOTES: DELETE statement appears to be broken
 
-        # remove samples from
-        # 1. experiment
-        # 2. sample
-        # 3. sample_description, sample_storage, sample_physiologicalparameters
+        remove samples from
+        1. experiment
+        2. sample
+        3. sample_description, sample_storage, sample_physiologicalparameters
+        '''
 
         dataListDelete = [];
         for si in sample_ids_I:
