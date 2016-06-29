@@ -648,7 +648,7 @@ class lims_experiment_query(sbaas_template_query):
                     experiment.sample_name.like(sample.sample_name),
                     sample.sample_id.like(sample_physiologicalParameters.sample_id),
                     sample.sample_id.like(sample_description.sample_id),
-                    sample_description.sample_description.like(sample_description_I),
+                    sample_description.sample_desc.like(sample_description_I),
                     sample_physiologicalParameters.od600 == None).group_by(
                     sample_physiologicalParameters.sample_id).order_by(
                     sample_physiologicalParameters.sample_id.asc()).all();
