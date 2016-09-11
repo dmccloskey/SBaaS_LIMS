@@ -87,6 +87,17 @@ class lims_biologicalMaterial_query(sbaas_template_query):
             return data_O;
         except SQLAlchemyError as e:
             print(e);
+    def get_orderedLocusName2GeneNameDict_biologicalmaterialID_biologicalMaterialGeneReferences(self,biologicalmaterial_id_I):
+        '''Query ordered locus name from gene name'''
+        try:
+            data = self.session.query(biologicalMaterial_geneReferences.gene_name,
+                    biologicalMaterial_geneReferences.ordered_locus_name).filter(
+                    biologicalMaterial_geneReferences.biologicalmaterial_id.like(biologicalmaterial_id_I)
+                    ).all();
+            data_O = {d.gene_name:d.ordered_locus_name for d in data};
+            return data_O;
+        except SQLAlchemyError as e:
+            print(e);
         #table initializations:
     def drop_lims_biologicalMaterial(self):
         try:
