@@ -59,6 +59,28 @@ class quantitation_method(Base):
         self.lloq = lloq_I;
         self.uloq = uloq_I;
         self.points = points_I;
+
+    def __repr__dict__(self):
+        return {'id':self.id,
+                'q1_mass':self.q1_mass,
+                'q3_mass':self.q3_mass,
+                'met_id':self.met_id,
+                'component_name':self.component_name,
+                'is_name':self.is_name,
+                'fit':self.fit,
+                'weighting':self.weighting,
+                'intercept':self.intercept,
+                'slope':self.slope,
+                'correlation':self.correlation,
+                'use_area':self.use_area,
+                'lloq':self.lloq,
+                'uloq':self.uloq,
+                'points':self.points,
+                }
+    
+    def __repr__json__(self):
+        return json.dumps(self.__repr__dict__())
+
 #quantitation_method_list
 class quantitation_method_list(Base):
     #__table__ = make_table('quantitation_method_list')
@@ -69,3 +91,13 @@ class quantitation_method_list(Base):
 
     def __init__(self,data_dict_I):
         self.quantitation_method_id=data_dict_I['quantitation_method_id'];
+
+    def __set__row__(self,quantitation_method_id_I):
+        self.quantitation_method_id = quantitation_method_id_I;
+
+    def __repr__dict__(self):
+        return {'quantitation_method_id':self.quantitation_method_id,
+                }
+    
+    def __repr__json__(self):
+        return json.dumps(self.__repr__dict__())

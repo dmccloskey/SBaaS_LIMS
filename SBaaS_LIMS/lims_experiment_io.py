@@ -3,7 +3,7 @@ from .lims_experimentor_query import lims_experimentor_query
 from .lims_sample_query import lims_sample_query
 from .lims_extractionMethod_query import lims_extractionMethod_query
 from .lims_acquisitionMethod_query import lims_acquisitionMethod_query
-from .lims_quantitationMethod_query import lims_quantitationMethod_query
+#from .lims_quantitationMethod_query import lims_quantitationMethod_query
 from SBaaS_base.sbaas_template_io import sbaas_template_io
 
 # Resources
@@ -16,7 +16,7 @@ class lims_experiment_io(lims_experiment_query,
                               lims_sample_query,
                               lims_extractionMethod_query,
                               lims_acquisitionMethod_query,
-                              lims_quantitationMethod_query,
+                              #lims_quantitationMethod_query,
                               sbaas_template_io):
     def import_sampleFile_add(self, filename):
         '''table adds'''
