@@ -1,13 +1,11 @@
 ﻿import sys
-#sys.path.append('C:/Users/dmccloskey-sbrg/Google Drive/SBaaS_base')
-sys.path.append('C:/Users/dmccloskey/Google Drive/SBaaS_base')
+sys.path.append('C:/Users/dmccloskey-sbrg/Documents/GitHub/SBaaS_base')
 from SBaaS_base.postgresql_settings import postgresql_settings
 from SBaaS_base.postgresql_orm import postgresql_orm
 
 # read in the settings file
-#filename = 'C:/Users/dmccloskey-sbrg/Google Drive/SBaaS_base/settings_1.ini';
-#filename = 'C:/Users/dmccloskey/Google Drive/SBaaS_base/settings_2.ini';
-filename = 'C:/Users/dmccloskey/Google Drive/SBaaS_base/settings_metabolomics_labtop.ini';
+filename = 'C:/Users/dmccloskey-sbrg/Google Drive/SBaaS_settings/settings_metabolomics.ini';
+#filename = 'C:/Users/dmccloskey/Google Drive/SBaaS_base/settings_metabolomics_labtop.ini';
 pg_settings = postgresql_settings(filename);
 
 ## make a new database and user from the settings file
@@ -41,15 +39,11 @@ from SBaaS_LIMS.lims_experiment_execute import lims_experiment_execute
 limsexperiment = lims_experiment_execute(session,engine,pg_settings.datadir_settings);
 limsexperiment.initialize_supportedTables();
 
-#delete a bad upload
-limsexperiment.execute_deleteExperiments(['CfBcontrol01']);
+# export the calibrator concentrations
+limsexperiment.execute_exportCalibrationConcentrations(
+    pg_settings.datadir_settings['workspace_data']+'/_input/150516_Quantification_BloodProject01_samplesAndComponents.csv',
+    pg_settings.datadir_settings['workspace_data']+'/_output/150516_calibration_concentrations.csv');
 
-# add in the samples for metabolomics
-limsexperiment.execute_makeExperimentFromSampleFile(
-    pg_settings.datadir_settings['workspace_data']+'/_input/160120_Quantification_CfBcontrol01_sampleFile01.csv',
-    1,
-    [10.0]
-);
 
 ##TODO
 ##---------------------
